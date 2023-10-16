@@ -1,0 +1,31 @@
+body {
+    background:url(./asset/SUN.jpeg) center/cover;
+    /* VH = 100% de la taille de l'écran (viewport height) */
+    min-height: 100vh;
+}
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+h2 {
+    text-align: center;
+}
+
+    
+p {
+    text-align: center;
+}
+button {
+    position: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 0 50px 0 30px;
+    background: red;
+}
+div {
+    text-align: center;
+    font-size: 1.5rem;
+}
+section.bot div.btn button.lien a {
+    text-decoration: none;
+}
